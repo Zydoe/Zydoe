@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I’m **Ben Judson**
 
-<!--
-**Zydoe/Zydoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science student @ University of Winnipeg**  
+🕹️ Aspiring **Game Developer** | 💻 Full‑stack tinkerer | 🚀 Always learning
 
-Here are some ideas to get you started:
+I’m currently studying **computer networks** and leveling up my **Python** skills. My long‑term goal is to build immersive, polished games supported by strong systems thinking and clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I’m fluent in
+- **Languages & Frameworks:** C#, JavaScript, TypeScript, Java, HTML, CSS, React, jQuery  
+- **Tools & Engines:** Unity, VS Code  
+- **Backend:** Node.js, Express  
+- **DevOps:** Learning Docker  
+- **Art & Asset Creation:** Learning Blender & Aseprite
+
+### 🏆 Achievements
+- **Best Overall – UW Hackathon 2026**  
+- **Best UI – UM DevHacks 2026**
+
+### 🎮 What I’m working toward
+- Building scalable, fun game systems  
+- Expanding backend and DevOps knowledge  
+- Improving my 2D/3D art workflow  
+- Becoming a developer who can take ideas from concept to launch
+
+### 🌱 Mindset
+Curiosity-driven. Improvement-focused. Always experimenting, always learning.
