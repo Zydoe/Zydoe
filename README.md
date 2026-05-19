@@ -7,7 +7,7 @@ I’m currently studying **computer networks** and leveling up my **Python** ski
 
 ### 🛠️ Tech I’m fluent in
 - **Languages & Frameworks:** C#, JavaScript, TypeScript, Java, HTML, CSS, React, jQuery
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zydoe)](https://github.com/anuraghazra/github-readme-stats)
 - **Tools & Engines:** Unity, VS Code  
 - **Backend:** Node.js, Express  
 - **DevOps:** Learning Docker  
